@@ -1,5 +1,7 @@
 # Polygon-Yolov5
-This repository is based on Ultralytics/yolov5, with adjustments to enable polygon prediction boxes.
+This repository is copy of https://github.com/XinzeLee/PolygonObjectDetection with some bug fixes so
+I don't claim the credit for his work. I have uploaded this for readers of my blog to replicate 
+the results easily without facing any issues.
 
 ## Section I. Description
 The codes are based on Ultralytics/yolov5, and several functions are added and modified to enable polygon prediction boxes.
